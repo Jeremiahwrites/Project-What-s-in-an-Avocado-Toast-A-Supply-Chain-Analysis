@@ -146,7 +146,7 @@ Even a “simple” avocado toast involves:
 │   ├── relevant_olive_oil_categories.txt
 │   ├── relevant_sourdough_categories.txt
 │
-├── notebook.ipynb / script.py
+├── avocado_analysis.py
 └── README.md
 ```
 
